@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dandara Salaun</h1>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dands-salaun&show_icons=true&theme=merko)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dands-salaun&show_icons=true&theme=gruvbox)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dands-salaun&show_icons=true&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dands-salaun&show_icons=true&theme=onedark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dands-salaun&show_icons=true&theme=cobalt)
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dands-salaun/dands-salaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
