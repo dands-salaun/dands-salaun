@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dandara Salaun</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dands-salaun)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dands-salaun&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dands-salaun&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dands-salaun&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dands-salaun&show_icons=true&theme=dracula)
 
 
 
