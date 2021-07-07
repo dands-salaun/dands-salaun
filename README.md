@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dandara Salaun</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dands-salaun&show_icons=true&theme=tokyonight)
 
 <!--
 **dands-salaun/dands-salaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
