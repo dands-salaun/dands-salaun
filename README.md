@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dands-salaun)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **dands-salaun/dands-salaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
