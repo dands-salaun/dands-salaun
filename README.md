@@ -9,8 +9,6 @@
   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </p> 
 
-  ![Snake animation](https://github.com/dands-salaun/dands-salaun/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **dands-salaun/dands-salaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
